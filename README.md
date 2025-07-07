@@ -22,7 +22,7 @@ I'm a **Senior Software Engineer** passionate about secure backend development, 
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManishSingh0x&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cy00r&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
 </div>
 
 <!-- Social Links -->
