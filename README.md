@@ -59,7 +59,7 @@ I'm a **Senior Software Engineer** passionate about secure backend development, 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Dioxus](https://img.shields.io/badge/Dioxus-3366ff?style=for-the-badge&logo=rust&logoColor=white)
+![Actix Web](https://img.shields.io/badge/Dioxus-3366ff?style=for-the-badge&logo=rust&logoColor=white)
 
 <br>
 
@@ -72,8 +72,8 @@ I'm a **Senior Software Engineer** passionate about secure backend development, 
     <td width="50%">
       <h3 align="center">Encrypted File Explorer</h3>
       <div align="center">
-        <a href="https://github.com/ManishSingh0x/encrypted-fx" target="_blank">
-          <img src="https://raw.githubusercontent.com/dioxus-community/dioxus/main/assets/logo.png" width="350" />
+        <a href="https://github.com/cy00r/encrypted-fx" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue" width="350" />
         </a>
         <p>Secure local-only file management app built using <strong>Rust + Dioxus</strong>. Supports end-to-end encrypted file browsing, renaming, deleting, and search.</p>
       </div>
