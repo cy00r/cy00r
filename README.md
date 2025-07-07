@@ -91,11 +91,11 @@ I'm a **Senior Software Engineer** passionate about secure backend development, 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cy00r&theme=nightowl&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cy00r&theme=nightowl&hide_border=true" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy00r&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
 </td>
 </tr>
 </table>
