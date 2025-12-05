@@ -4,7 +4,6 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About me***
 
-<img align="right" width=200px src="https://pbs.twimg.com/profile_images/1903840010027077632/tvx-c88A_400x400.jpg"/>
 
 I'm a **Senior Software Engineer** passionate about secure backend development, **blockchain infrastructure**, and systems programming using **Rust**. I've worked extensively on decentralized applications and am currently building tools around **zkSync**, **Syscoin**, **EigenDA**, and **encrypted file storage** with **Dioxus**.
 
