@@ -16,7 +16,7 @@ I'm a **Senior Software Engineer** passionate about secure backend development, 
   - *ZK cryptography and L2 protocols*
 - 🧠 Learning by doing. Sharing through blogs & Twitter.
 - 🎸 Outside of work, I enjoy hacking on open-source, exploring music & tech forums.
-- 📫 Reach out at: <a href="mailto:work.manish05@gmail.com">maniish18siingh@gmail.com</a>
+- 📫 Reach out at: <a href="mailto:work.manish05@gmail.com">work.manish05@gmail.com</a>
 
 <br>
 
